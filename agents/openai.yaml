@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书达人报告生成器"
+  short_description: "通过小红书或 WEIQ 链接、博主名称生成完整达人网页报告"
+  default_prompt: "使用 $build-weiq-influencer-report 根据这个链接或博主名称生成完整的达人网页报告。"
